@@ -23,5 +23,5 @@ This system was built to provide a memorable and unique way for wedding guests t
 
 ## Status
 
-Project completed and successfully deployed in a production environment during a live event.
+In active development and has not been tested in a real environment.
 
